@@ -1,0 +1,5 @@
+John Doe
+Software Engineer
+Skills: Python, Machine Learning, NLP, TensorFlow, Flask
+Experience: 3 years at Google, 2 years at Microsoft
+Education: BSc in Computer Science, MIT

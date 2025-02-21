@@ -1,0 +1,5 @@
+Jane Smith
+Data Scientist
+Skills: Data Analysis, Deep Learning, SQL, Pandas, PyTorch
+Experience: 4 years at Facebook, 2 years at Amazon
+Education: MSc in Data Science, Stanford University
